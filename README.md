@@ -1,5 +1,5 @@
 ## Hey there 👋
-I’m Reva, a second-year engineering student!
+I’m Reva, a second-year Computer Science engineering student!
 
 ---
 
