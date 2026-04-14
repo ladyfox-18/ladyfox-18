@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hey there 👋
+I’m Reva, a second-year engineering student!
 
-<!--
-**ladyfox-18/ladyfox-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I mostly work on frontend development — building interfaces using React, TypeScript, and Tailwind.  
+I also use Figma to design and plan out UI before bringing ideas to life.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is a fresh start where I’ll be sharing smaller projects, experiments, and things I’m currently working on.
+
+---
+
+## 💻 I’m currently working on
+• DSA in java 
+• Improving my coding skills  
+• Exploring tools, frameworks, and better ways to build 
+
+---
+
+## Tools & Tech
+
+**Languages**  
+• C  
+• C++  
+• Java  
+• Python  
+
+**Frameworks**  
+• React  
+• TypeScript 
+• Tailwind CSS
+
+**Tools**  
+• Git  
+• GitHub  
+• VS Code  
+• Figma  
+
+---
