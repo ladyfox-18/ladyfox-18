@@ -11,7 +11,7 @@ This is a fresh start where I’ll be sharing smaller projects, experiments, and
 ---
 
 ## 💻 I’m currently working on
-• DSA in java 
+• DSA in java                                                                               
 • Improving my coding skills  
 • Exploring tools, frameworks, and better ways to build 
 
